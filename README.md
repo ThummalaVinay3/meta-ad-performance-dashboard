@@ -4,7 +4,9 @@
 
 This project presents an interactive Power BI dashboard developed using Meta (Facebook & Instagram) advertising data to analyze campaign performance, engagement, and ROI.
 It provides marketing insights to optimize ad spend, targeting, and creative strategies, enabling better decision-making for digital marketing teams.
-
+---
+## 📊 Live Power BI Dashboard  
+🔗 **View Dashboard:** [Click here to open the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMDIzYWVkNmUtMWI4YS00Nzg0LWEyNWItMWI0ZGM3MjY1OWNiIiwidCI6ImVlNzZjZmM4LTkyMzctNDJiMi1iNDljLWY5OTgwYWMxOGZiOSJ9)
 
 ---
 ### 🎯 Objective
